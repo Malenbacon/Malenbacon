@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Malenbacon
-- 🌱 I’m currently learning ... JavaScript , NodeJS 
+- 👋 Hi, I’m Malenbacon, 
+-  I know: JavaScript, Html and Css
+- 🌱 I’m currently learning ... NodeJS and React
 
 
