@@ -10,3 +10,4 @@ Atualmente estou estudando progamação e posto alguns projetos meus aqui
 ### Estou estudando atualmente:
 - Banco de dados (MongoDB atualmente)
 - React
+- Serviços de Hospedagem e cloud
