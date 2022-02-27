@@ -13,3 +13,5 @@ Atualmente estou estudando progamação para me tornar Web Developer e posto alg
 - Banco de dados (MongoDB atualmente)
 - Serviços de Hospedagem e cloud
 
+Estou atualmente em pausa devido problemas no meu computador
+
